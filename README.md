@@ -1,5 +1,4 @@
 ### Well hello there!
-
 JB is trying it out
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
